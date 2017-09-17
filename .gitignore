@@ -1,0 +1,7 @@
+*.user
+Makefile
+*.o
+moc_*
+T01Video/T01Video
+T02Audio/T02Audio
+T03Player/T03Player
